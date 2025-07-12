@@ -52,10 +52,25 @@ Welcome to my GitHub! I’m an Electrical Engineering graduate (June 2024) with 
 
 ---
 
+## 🤖 I Also Build in AI, ML & Fullstack!
+
+Looking for my work in AI, machine learning, fullstack, or UI/UX?
+
+Check out my second GitHub profile:  
+👉 [Siddharthsinghkumar](https://github.com/Siddharthsinghkumar)
+
+Here I share:
+- AI-powered bots & automation pipelines
+- ML projects (NLP, CV, GPT, etc.)
+- Fullstack web apps (Django, REST, JS)
+- IoT, system recovery tools, and more
+
+---
+
 ## 🌐 Let’s Connect
 
 - [Siddharthsinghkumar on GitHub](https://github.com/Siddharthsinghkumar)
-- [LinkedIn](https://www.linkedin.com/in/siddharthsinghkumar)
+- [LinkedIn](https://www.linkedin.com/in/siddharth-singh-735340296/)
 - Email: siddharthsinghkumar@gmail.com
 
 ---
